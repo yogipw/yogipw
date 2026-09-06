@@ -3,8 +3,6 @@
   <h1>👾 Computer Science Student from Indonesia 🇮🇩</h1>
   <p><i>Passionate about systems, coding, and building cool things.</i></p>
 
-  <br>
-
   <h3>⚡ Tech Stack</h3>
 
   <!-- 3 Kolom Tech Stack Relevan & Sejajar -->
@@ -15,8 +13,6 @@
     <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" height="45" width="2" alt="|" />
     <img src="https://skillicons.dev/icons?i=docker,linux,git,bash" alt="DevOps & Environment" />
   </p>
-
-  <br>
 
   <h3>📬 Connect</h3>
   <p align="center">
