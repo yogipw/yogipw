@@ -7,30 +7,34 @@
 
   <h3>⚡ Tech Stack</h3>
 
-  <table>
-    <tr align="center">
-      <th width="33%">Languages</th>
-      <th width="33%">Web & Frameworks</th>
-      <th width="33%">Tools & OS</th>
-    </tr>
-    <tr align="center">
-      <td>
-        <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=c,cpp,python,ts" alt="Languages" />
-        </a>
-      </td>
-      <td>
-        <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=react,tailwind,html,css" alt="Web & Frameworks" />
-        </a>
-      </td>
-      <td>
-        <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=docker,linux,git,bash" alt="Tools & OS" />
-        </a>
-      </td>
-    </tr>
-  </table>
+  <!-- Header Kategori -->
+  <p>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <b>Languages</b>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <b>Web & Frameworks</b>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <b>Tools & OS</b>
+  </p>
+
+  <!-- Baris Ikon dengan Pemisah Garis Vertikal Glowing -->
+  <p>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=c,cpp,python,ts" alt="Languages" />
+    </a>
+    &nbsp;&nbsp;&nbsp;
+    <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" height="48" width="2" alt="|" />
+    &nbsp;&nbsp;&nbsp;
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=react,tailwind,html,css" alt="Web & Frameworks" />
+    </a>
+    &nbsp;&nbsp;&nbsp;
+    <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" height="48" width="2" alt="|" />
+    &nbsp;&nbsp;&nbsp;
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=docker,linux,git,bash" alt="Tools & OS" />
+    </a>
+  </p>
 
   <br>
 
