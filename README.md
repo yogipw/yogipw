@@ -1,37 +1,41 @@
 <div align="center">
 
-  <h1>👾 Computer Science Student from Indonesia 🇮🇩</h1>
-  <p><i>Passionate about systems, coding, and building cool things.</i></p>
+  <!-- Aesthetic Pixel Cat Banner -->
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/anime/cat-laptop.gif" width="380" alt="Pixel Art" />
 
-  <br>
+  <br><br>
 
-  <h3>⚡ Tech Stack</h3>
-
-  <!-- Baris 1: Core Languages & Systems (5 ikon, pas di layar HP) -->
+  <!-- Title & Intro -->
+  # Computer Science Student from Indonesia 🇮🇩
+  
   <p>
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=c,cpp,python,ts,linux" alt="Core & Systems" />
-    </a>
-  </p>
-
-  <!-- Baris 2: Fullstack & DevOps (5 ikon) -->
-  <p>
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=react,nodejs,tailwind,postgres,docker" alt="Fullstack & Tools" />
-    </a>
+    <i>Passionate about low-level systems, software development, and open source.</i>
   </p>
 
   <br>
 
-  <h3>📬 Connect</h3>
-  <p>
-    <a href="mailto:emailkamu@gmail.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-    &nbsp;
-    <a href="https://github.com">
-      <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-    </a>
-  </p>
+  <!-- Clean Stack Grid -->
+  <b>Languages & Systems</b><br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,ts,linux" alt="Core Stack" />
+  </a>
+
+  <br><br>
+
+  <b>Web, Data & Cloud</b><br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nodejs,tailwind,postgres,docker" alt="Web & Cloud" />
+  </a>
+
+  <br><br>
+
+  <!-- Connect Section -->
+  <a href="mailto:emailkamu@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/USERNAME">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  </a>
 
 </div>
