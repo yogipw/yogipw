@@ -1,22 +1,14 @@
 <div align="center">
+```bash
+~ $ whoami
+Yogi Purwa
 
-```json
-/* 🔴 🟡 🟢  yogi@archlinux:~ */
+~ $ cat about.txt
+Computer Science student from Indonesia 🇮🇩
+Exploring low-level systems, backend, and open source.
 
-{
-  "user": "Yogi Purwa",
-  "role": "Computer Science Student 🇮🇩",
-  "status": "Building software & exploring systems",
-  "stack": {
-    "languages": ["C", "C++", "Python", "TypeScript"],
-    "backend":   ["Node.js", "PostgreSQL", "Docker"],
-    "env":       ["Arch Linux", "Bash", "Git"]
-  },
-  "contact": {
-    "email": "yogipurwa@gmail.com",
-    "github": "yogipw"
-  }
-}
+~ $ ping -c 1 contact
+email: yogipurwa@example.com | github: @yogipw
 ```
 
 <!-- Minimalist Pill Links -->
