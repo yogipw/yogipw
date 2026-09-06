@@ -1,11 +1,5 @@
-
-## &#x1f4c8; GitHub Stats
-
-<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yogipw&show_icons=true&locale=en&layout=compact&theme=radical" alt="yogipw" /></p>
-
- 
- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yogipw&theme=radical" alt="yogipw" /></p>
- 
- <br />
- 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=yogipw&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)  
+  <p><img src="https://user-images.githubusercontent.com/507615/90595977-95e70e80-e220-11ea-864a-6a61adaff212.png" alt=""></p>
+<p><img src="https://visitor-badge.glitch.me/badge?page_id=afc163.afc163" alt=""></p>
+<hr>
+<p>Credit: <a href="https://github.com/afc163">afc163</a></p>
+<p>Last Edited on: 19/11/2020</p> 
