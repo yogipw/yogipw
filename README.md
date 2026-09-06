@@ -1,30 +1,35 @@
 <div align="center">
 
-  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/anime/cat-laptop.gif" width="320" alt="Chill Pixel Cat" />
+  <!-- Header Animated Text -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Computer+Science+Student+🇮🇩;Turning+ideas+into+code;Passionate+about+systems+%26+software" alt="Typing SVG" />
+  </a>
 
   <br><br>
 
-  # 👾 Computer Science Student from Indonesia 🇮🇩
+  <!-- Status / Vibe Pills -->
+  <code>CS Undergraduate</code> &nbsp;•&nbsp; <code>Exploring Systems</code> &nbsp;•&nbsp; <code>Open Source Enthusiast</code>
+
+  <br><br>
 
   <p>
-    Turning curiosity into code, one commit at a time.<br>
-    Interested in systems, backend architecture, and open-source software.
+    Building software, breaking things to understand how they work,<br>
+    and continuously learning computer science fundamentals.
   </p>
 
   <br>
 
-  <p>
-    <code>chill</code> • <code>code</code> • <code>repeat</code>
-  </p>
-
-  <br>
-
+  <!-- Connect Badges Minimalist -->
   <a href="mailto:emailkamu@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   &nbsp;
   <a href="https://github.com/USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  &nbsp;
+  <a href="https://linkedin.com/in/USERNAME">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 
 </div>
