@@ -1,5 +1,5 @@
 <div align="center">
 
-  <img src="./carbon.svg" width="1000" alt="Yogi Purwa Terminal" />
+  <img src="./carbon.svg" width="720" alt="Yogi Purwa Terminal" />
 
 </div>
